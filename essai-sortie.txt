@@ -1,0 +1,5 @@
+Animal;Type;Poids
+Dauphin;Mammifère;52
+Rat;Mammifère;1
+Koala;Mammifère;5
+Poule;Oiseau;3
