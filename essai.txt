@@ -2,4 +2,5 @@ Bonjour
 Salut
 Coucou
 Hello
+Merci
 Fin
